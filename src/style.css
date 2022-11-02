@@ -99,8 +99,15 @@ p {
   color: white;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 750px) {
     .desktop-break{
         display: none;
+    }
+    h2{
+    font-size: 30px
+    
+  }
+    h1{
+       font-size: 60px; 
     }
 }
